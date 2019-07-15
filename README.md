@@ -1,7 +1,7 @@
 # Evaluate Credibility of Web-Based News Articles by using NLP and Deep Learning
 This project is part of my MS in Computer Science Capstone Project at Rochester Institute of Technology, NY. 
 
-*This project is still under development*
+*Code to be uploaded shortly*
 
 ## Proposal
 The proliferation of fake news articles online reached a peak during the 2016 US Elections. Facebook, Twitter, and
